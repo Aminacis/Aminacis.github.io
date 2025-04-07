@@ -3,9 +3,6 @@ layout: page
 title: Life Satisfaction, Working Hours & Unemployment
 permalink: /projects/LifeSatisfaction&WorkStress
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-
-<div>
 
 [View Report (PDF)](/assets/html/python_project.pdf)
 
