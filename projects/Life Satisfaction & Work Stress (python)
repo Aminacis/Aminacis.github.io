@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Life Satisfaction, Working Hours & Unemployment
-permalink: /projects/life-satisfaction-python/
+permalink: /assets/img/python_project.pdf
 ---
 
 ## Overview
@@ -29,5 +29,5 @@ Significant interaction found: in high-unemployment settings, working hours migh
 R² = 0.083, model is statistically significant (p < 0.001).
 
 ## (Optional) Link to code or report
-[View Report (PDF)]()
+[View Report (PDF)](/assets/img/python_project.pdf)
 
