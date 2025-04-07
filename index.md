@@ -46,21 +46,21 @@ title: My Portfolio
 
 ## Soft Skills
 
-Adaptability  
-Critical Thinking  
-Time Management  
-Autonomy  
-Team Collaboration  
-Attention to Detail  
+- Adaptability  
+- Critical Thinking  
+- Time Management  
+- Autonomy  
+- Team Collaboration  
+- Attention to Detail  
 
 ---
 
 ## Languages
 
-French (Fluent)  
-Wolof (Fluent)  
-English (Advanced B2)  
-German (Beginner A1)
+- French (Fluent)  
+- Wolof (Fluent)  
+- English (Advanced B2)  
+- German (Beginner A1)
 
 ---
 
@@ -82,9 +82,9 @@ Relevant Courses: Finance, Applied Statistics
 ---
 
 ## Certifications
-Alteryx Designer Core 
-Celonis Foundations & Academic Process Mining Fundamentals
-Process Mining Audit Professional
-Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
+- Alteryx Designer Core 
+- Celonis Foundations & Academic Process Mining Fundamentals
+- Process Mining Audit Professional
+- Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
 
 
