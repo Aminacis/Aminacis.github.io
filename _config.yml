@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 nav:
   - README: /README/
-  - Projects: /projects/
+  - projects: /projects/
 
 
  
