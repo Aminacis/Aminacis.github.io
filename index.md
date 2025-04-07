@@ -2,7 +2,6 @@
 layout: page
 title: My portfolio
 ---
-<img src="assets/img/profile.jpg" alt="Profile picture" width="150" style="border-radius: 50%;">
 
 ## About Me
 
