@@ -19,7 +19,7 @@ title: My Portfolio
 ## Projects
 
 <ul style="list-style: none; padding-left: 0;">
-  <li><a href="/projects/GlobalSuperstoreBI.md"><strong>Global Superstore BI (Alteryx)</strong></a> – Analyzed sales, product performance & customer behavior using Alteryx workflows.</li>
+  <li><a [Global Superstore BI (Alteryx)](/projects/GlobalSuperstoreBI.md) ><strong>Global Superstore BI (Alteryx)</strong></a> – Analyzed sales, product performance & customer behavior using Alteryx workflows.</li>
   <li><a href="/projects/LifeSatisfaction&WorkStress.md"><strong>Life Satisfaction & Unemployment (Python)</strong></a> – Built a regression model and explored global happiness trends using Python.</li>
   <li><a href="/projects/PublicHealth&SocioeconomicAnalysisinChicago.md"><strong>Public Health & SES in Chicago (R)</strong></a> – Developed an SES index and performed regression to explore links between poverty and health.</li>
   <li><a href="/projects/fast-food-sales.md"><strong>Fast-Food Sales Dashboard (Tableau)</strong></a> – Created a dynamic dashboard analyzing sales by customer preferences, item pairs & payment methods.</li>
