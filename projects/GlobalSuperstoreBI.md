@@ -3,9 +3,6 @@ layout: page
 title: Global Superstore BI
 permalink: /projects/GlobalSuperstoreBI
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-
-<div>
   
 [View workflow & report (PDF)](/assets/html/Altexryx-Data-analysis-and-business-intelligence.pdf)
 
