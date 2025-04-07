@@ -3,9 +3,6 @@ layout: page
 title: Public Health & SES in Chicago (R)
 permalink: /projects/PublicHealth&SocioeconomicAnalysisinChicago
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-
-<div>
  
  [View report & interactive dashboard](/assets/html/public-health.html)
  
