@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Life Satisfaction, Working Hours & Unemployment
-permalink: /assets/html/python_project.pdf
+permalink: /projects/LifeSatisfaction&WorkStress
 ---
 
 ## Overview
