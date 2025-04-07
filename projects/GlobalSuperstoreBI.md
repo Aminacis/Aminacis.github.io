@@ -31,7 +31,6 @@ Found 3,788 low-performing products and gave recommendations (e.g., pricing, mar
 Calculated average shipping time and revealed variation by region and shipping mode.
 Overall profit margin was ~4.74%; product and region-based contributions were analyzed.
 
-## Link to code or report
-[View Report (PDF)](/assets/html/Altexryx-Data-analysis-and-business-intelligence.pdf)
+[View workflow & report (PDF)](/assets/html/Altexryx-Data-analysis-and-business-intelligence.pdf)
 
 
