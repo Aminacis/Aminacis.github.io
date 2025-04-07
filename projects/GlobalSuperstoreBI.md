@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Superstore BI
-permalink: /projects/GlobalSuperstoreBI.md
+permalink: /projects/GlobalSuperstoreBI
 ---
 
 ## Overview
