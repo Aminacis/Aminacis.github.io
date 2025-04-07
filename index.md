@@ -5,7 +5,7 @@ title: My Portfolio
  ## About Me  
     
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-  <img src="/assets/img/Profile.jpg" alt="Profile picture" width="180" style="border-radius: 30%;"/>
+  <img src="/assets/img/Profile.jpg" alt="Profile picture" width="190"/>
   <div>
     I'm a resilient and intuitive data analyst based in France, with a strong sense of adaptability and a cross-cultural perspective shaped by my dual background.  
     I love exploring how data can clarify complex problems and support smarter decision-making. Curious by nature, I enjoy digging beneath the surface and connecting dots others might miss.  
