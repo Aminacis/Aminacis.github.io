@@ -28,18 +28,19 @@ title: My Portfolio
 ---
 
 ## Technical Skills
-Python
-R (RShiny,ggplot)
-SQL
-Tableau 
-Power BI
-Alteryx
-Celonis
-Excel,VBA
-JASP - Statistical testing (Bayesian, chi-square, etcs)  
-Machine Learning Algorithm 
-Stastical Analysis
-Otree, Ztree – experiments setup for my thesis and behavioral one
+
+- Python
+- R (RShiny,ggplot)
+- SQL
+- Tableau
+- Power BI
+- Alteryx
+- Celonis
+- Excel,VBA
+- JASP - Statistical testing (Bayesian, chi-square, etcs)
+- Machine Learning Algorithm
+- Stastical Analysis
+- Otree, Ztree – experiments setup for my thesis and behavioral one
 
 ---
 
@@ -81,9 +82,9 @@ Relevant Courses: Finance, Applied Statistics
 ---
 
 ## Certifications
-Alteryx Designer Core Certification
-Celonis Foundations & Academic Process Mining Fundamentals
-Process Mining Audit Professional
-Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
+- Alteryx Designer Core 
+- Celonis Foundations & Academic Process Mining Fundamentals
+- Process Mining Audit Professional
+- Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
 
 
