@@ -4,9 +4,9 @@ title: My Portfolio
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-  <img src="/assets/img/Profile.jpg" alt="Profile picture" width="160" style="border-radius: 50%;"/>
+  <img src="/assets/img/Profile.jpg" alt="Profile picture" width="180" style="border-radius: 30%;"/>
   <div>
-    ### About Me  
+    ## About Me  
     I'm a resilient and intuitive data analyst based in France, with a strong sense of adaptability and a cross-cultural perspective shaped by my dual background.  
     I love exploring how data can clarify complex problems and support smarter decision-making. Curious by nature, I enjoy digging beneath the surface and connecting dots others might miss.  
 
@@ -29,17 +29,18 @@ title: My Portfolio
 
 ## Technical Skills
 
-**Python** 
-**R / RShiny / ggplot** 
-**SQL** 
-**Tableau / Power BI** 
-**Alteryx** 
-**Celonis** 
-**Excel / VBA** 
-**JASP** – Statistical testing (Bayesian, chi-square, etcs)  
-**Machine Learning Algorithm** 
-**Stastical Analysis**
-**Otree / Ztree** – experiments setup for my thesis and behavioral one
+Python
+R (RShiny,ggplot)
+SQL
+Tableau 
+Power BI
+Alteryx
+Celonis
+Excel,VBA
+JASP - Statistical testing (Bayesian, chi-square, etcs)  
+Machine Learning Algorithm 
+Stastical Analysis
+Otree,Ztree – experiments setup for my thesis and behavioral one
 
 ---
 
