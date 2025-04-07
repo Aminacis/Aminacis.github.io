@@ -2,7 +2,7 @@
 layout: page
 title: My Portfolio
 ---
- ## About Me  
+## About Me  
     
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
   <img src="/assets/img/Profile.jpg" alt="Profile picture" width="190"/>
@@ -83,7 +83,7 @@ German (Beginner A1)
 Relevant Courses: Finance, Applied Statistics
 
 **Lycée Clément Marot – Cahors**  
-*Preparatory Class ECE (Economic & Commercial track)*  
+*Preparatory Class ECE (Economic & Commercial,Economic Option)*  
 2019 – 2021
 
 **Lycée Joffre – Montpellier**  
@@ -94,7 +94,9 @@ Relevant Courses: Finance, Applied Statistics
 
 ## Certifications
 
-Alteryx Designer Core  
-Celonis Foundations + Process Mining  
-Process Mining Audit Professional  
-Bloomberg Market Concepts (Finance, ESG, Sustainability)
+Alteryx Designer Core Certification
+Celonis Foundations & Academic Process Mining Fundamentals
+Process Mining Audit Professional
+Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
+
+
