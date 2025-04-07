@@ -28,6 +28,6 @@ Interactive maps revealed clusters of poor health in low-SES areas like West Gar
 Regression showed SES as a strong predictor for several health outcomes.
 Provided data-driven insight for targeted public health efforts in at-risk communities.
 
-## [View Interactive Dashboard](/assets/html/public-health.html)
+## [View report & interactive dashboard](/assets/html/public-health.html)
 
 
