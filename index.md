@@ -3,6 +3,9 @@ layout: page
 title: My portfolio
 ---
 
+<img src="/assets/img/Profile.jpg" alt="Profile picture" width="200"/>
+
+
 ## About Me
 
 A resilient and intuitive problem solver, skilled at navigating diverse perspectives and turning complex data into clear insights. Agile and precise, I balance flexibility with structure to uncover clarity in complexity.
