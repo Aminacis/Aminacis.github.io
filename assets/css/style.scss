@@ -1,0 +1,23 @@
+/* Link hover effect */
+a:hover {
+  color: #007acc; /* A bright blue on hover */
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+/* Add soft shadows to your profile picture */
+img {
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+/* Give space between project list items */
+ul li {
+  margin-bottom: 1rem;
+}
+
+/* Better spacing for sections */
+section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
