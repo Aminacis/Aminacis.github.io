@@ -28,6 +28,5 @@ Unemployment also affects satisfaction but more weakly.
 Significant interaction found: in high-unemployment settings, working hours might offer a sense of security, reducing dissatisfaction.
 R² = 0.083, model is statistically significant (p < 0.001).
 
-## (Optional) Link to code or report
 [View Report (PDF)](/assets/html/python_project.pdf)
 
