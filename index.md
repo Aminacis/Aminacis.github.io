@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My portfolio
-permalink: /README/
 ---
 <img src="assets/img/profile.jpg" alt="Profile picture" width="150" style="border-radius: 50%;">
 
@@ -12,9 +11,9 @@ A resilient and intuitive problem solver, skilled at navigating diverse perspect
 ---
 
 ## Projects
-[Global Superstore BI (Alteryx)](/projects/global-superstore.md)
-[Life Satisfaction & Unemployment (Python)](/projects/life-satisfaction-python.md)
-[Public Health & SES in Chicago (R)](/projects/public-health-chicago.md)
+[Global Superstore BI (Alteryx)](projects/Global Superstore BI (Alteryx))
+[Life Satisfaction & Unemployment (Python)](/projects/Life Satisfaction & Work Stress (python))
+[Public Health & SES in Chicago (R)](/projects/Public Health & Socioeconomic Analysis in Chicago (R))
 [Fast-Food Sales Dashboard (Tableau)](/projects/fast-food-sales.md)
 
 ---
