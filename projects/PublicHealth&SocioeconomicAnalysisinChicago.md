@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Health & SES in Chicago (R)
-permalink: /assets/html/public-health.html
+permalink: /projects/PublicHealth&SocioeconomicAnalysisinChicago
 ---
 
 ## Overview
