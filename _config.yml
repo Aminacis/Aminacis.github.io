@@ -1,10 +1,12 @@
 title: Cisse Amina 
 logo: assets/Profile.jpg
 description: Data Analyst | Cooking & Baking Enthusiast
-#email: cisse.aminabintou@gmail.com
-#phone: 06 51 63 96 76
-
 #show_dowloads: true
 theme: jekyll-theme-minimal
+
+nav:
+  - README: /README/
+  - Projects: /projects/
+
 
  
