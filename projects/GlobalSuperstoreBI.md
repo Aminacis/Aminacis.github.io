@@ -32,6 +32,6 @@ Calculated average shipping time and revealed variation by region and shipping m
 Overall profit margin was ~4.74%; product and region-based contributions were analyzed.
 
 ## Link to code or report
-[View Report (PDF)](/assets/html/Altexryx-Data analysis and business intelligence.pdf)
+[View Report (PDF)](/assets/html/Altexryx-Data-analysis-and-business-intelligence.pdf)
 
 
