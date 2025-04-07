@@ -11,9 +11,9 @@ A resilient and intuitive problem solver, skilled at navigating diverse perspect
 ---
 
 ## Projects
-[Global Superstore BI (Alteryx)](projects/Global Superstore BI (Alteryx))
-[Life Satisfaction & Unemployment (Python)](/projects/Life Satisfaction & Work Stress (python))
-[Public Health & SES in Chicago (R)](/projects/Public Health & Socioeconomic Analysis in Chicago (R))
+[Global Superstore BI (Alteryx)](/projects/Global Superstore BI.md)
+[Life Satisfaction & Unemployment (Python)](/projects/Life Satisfaction & Work Stress.md))
+[Public Health & SES in Chicago (R)](/projects/Public_Health_& _Socioeconomic_Analysis _in_Chicago.md)
 [Fast-Food Sales Dashboard (Tableau)](/projects/fast-food-sales.md)
 
 ---
