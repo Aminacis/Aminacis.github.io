@@ -4,15 +4,13 @@ title: Fast-Food Sales Analysis (Tableau)
 permalink: /projects/fast-food-sales/
 ---
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-
 <div>
-
+  
 ##  Dashboard 
 [View Tableau Dashboard](/assets/img/Dashboard 1 Balaji Fast foods performance.png) 
 [View Tableau Dashboard](/assets/img/Dashboard 2 Balaji Fast Foods Performance.png) 
 
 ---
-
 ## Overview  
 This project analyzes a local restaurant's transaction data to understand customer purchasing patterns, optimize menu offerings, and improve overall profitability. Tableau is used for interactive data visualization and dashboard design.
 
