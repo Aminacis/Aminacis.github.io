@@ -3,9 +3,7 @@ layout: page
 title: Fast-Food Sales Analysis (Tableau)
 permalink: /projects/fast-food-sales/
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-<div>
-  
+
 ##  Dashboard 
 [View Tableau Dashboard](/assets/img/Dashboard 1 Balaji Fast foods performance.png) 
 [View Tableau Dashboard](/assets/img/Dashboard 2 Balaji Fast Foods Performance.png) 
@@ -66,7 +64,6 @@ Item prices and quantities
 Transaction amounts and payment types (cash, online, null, etc.)  
 Gender of the staff processing the order  
 Sale times (Morning, Afternoon, Evening, Night, Midnight)
-
 
 ---
 ### Foreseeable Challenges  
