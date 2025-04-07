@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Health & SES in Chicago (R)
-permalink: /projects/public-health-chicago/
+permalink: /assets/img/public-health.html
 ---
 
 ## Overview
@@ -28,6 +28,6 @@ Interactive maps revealed clusters of poor health in low-SES areas like West Gar
 Regression showed SES as a strong predictor for several health outcomes.
 Provided data-driven insight for targeted public health efforts in at-risk communities.
 
-## [View Interactive Dashboard](../public-health.html)
+## [View Interactive Dashboard](assets/img/public-health.html)
 
 
