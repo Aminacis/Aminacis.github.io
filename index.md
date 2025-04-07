@@ -11,6 +11,14 @@ A resilient and intuitive problem solver, skilled at navigating diverse perspect
 
 ---
 
+## Projects
+[Global Superstore BI (Alteryx)](/projects/global-superstore.md)
+[Life Satisfaction & Unemployment (Python)](/projects/life-satisfaction-python.md)
+[Public Health & SES in Chicago (R)](/projects/public-health-chicago.md)
+[Fast-Food Sales Dashboard (Tableau)](/projects/fast-food-sales.md)
+
+---
+
 ## Core Competencies
 
 ### Technical Skills
