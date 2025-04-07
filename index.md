@@ -3,7 +3,7 @@ layout: page
 title: My portfolio
 permalink: /README/
 ---
-<img src="/assets/Profile.jpg" alt="Profile picture" width="150" style="border-radius: 50%;">
+<img src="assets/img/profile.jpg" alt="Profile picture" width="150" style="border-radius: 50%;">
 
 ## About Me
 
