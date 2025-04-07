@@ -7,6 +7,7 @@ permalink: /projects/GlobalSuperstoreBI
 
 <div>
 ---
+  
 [View workflow & report (PDF)](/assets/html/Altexryx-Data-analysis-and-business-intelligence.pdf)
 
 # Overview
