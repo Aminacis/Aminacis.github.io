@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: My portfolio
 permalink: /README/
 ---
 
