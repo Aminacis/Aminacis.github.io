@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Superstore BI
-permalink: /assets/html/Altexryx-Data analysis and business intelligence.pdf
+permalink: /projects/GlobalSuperstoreBI.md
 ---
 
 ## Overview
