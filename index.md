@@ -82,9 +82,9 @@ Relevant Courses: Finance, Applied Statistics
 ---
 
 ## Certifications
-- Alteryx Designer Core 
-- Celonis Foundations & Academic Process Mining Fundamentals
-- Process Mining Audit Professional
-- Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
+Alteryx Designer Core 
+Celonis Foundations & Academic Process Mining Fundamentals
+Process Mining Audit Professional
+Bloomberg Market Concepts, Finance Fundamentals, ESG & Sustainable Finance
 
 
