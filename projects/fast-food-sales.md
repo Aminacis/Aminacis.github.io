@@ -62,6 +62,6 @@ Interpreting demand without deeper consumer preference data
 
 ##  Dashboard 
 [View Tableau Dashboard](/assets/img/Dashboard 1 Balaji Fast foods performance.png) 
-[View Tableau Dashboard](/) 
+[View Tableau Dashboard](/assets/img/Dashboard 2 Balaji Fast Foods Performance.png) 
 
 
