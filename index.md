@@ -22,7 +22,7 @@ title: My Portfolio
 - [Life Satisfaction & Unemployment(Python)](/projects/LifeSatisfaction&WorkStress.md)
 - [Public Health & SES in Chicago (R)](/projects/PublicHealth&SocioeconomicAnalysisinChicago.md)
 - [Fast-Food Sales Dashboard (Tableau)](/projects/fast-food-sales.md)
-- [Fast-Food Sales Dashboard (Tableau)](/projects/PowerBIMovie.md)
+- [Blockbuster Formula (PowerBI)](/projects/PowerBIMovie.md)
 
 ---
 
