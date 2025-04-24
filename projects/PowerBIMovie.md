@@ -7,7 +7,7 @@ permalink: /projects/PowerBIMovie
 ## Dashboard Preview
 
 ### 📄 Page 1: "How to Build The Perfect Movie"
-![Page 1](../path-to-image/WhatsApp%20Image%202025-04-24%20at%2012.54.05.jpeg)
+![Page 1](/assets/img/WhatsApp Image 2025-04-24 at 12.54.05.jpeg)
 
 ### 📄 Page 2: "Blockbuster Formula: Talent Meets Timing"
 ![Page 2](../path-to-image/WhatsApp%20Image%202025-04-24%20at%2013.07.17.jpeg)
