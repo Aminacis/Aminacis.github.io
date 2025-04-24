@@ -8,6 +8,7 @@ permalink: /projects/PowerBIMovie
 
 ### 📄 Page 1: "How to Build The Perfect Movie"
 ![Page 1](/assets/img/howtobuildtheperfect.jpeg)
+<img src="/assets/img/howtobuildtheperfect.jpeg" alt="Page 1" width="700"/>
 
 ### 📄 Page 2: "Blockbuster Formula: Talent Meets Timing"
 ![Page 2](/assets/img/blockbusterformmula.jpeg)
