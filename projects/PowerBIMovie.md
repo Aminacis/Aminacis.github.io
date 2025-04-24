@@ -10,7 +10,7 @@ permalink: /projects/PowerBIMovie
 ![Page 1](/assets/img/howtobuildtheperfect.jpeg)
 
 ### 📄 Page 2: "Blockbuster Formula: Talent Meets Timing"
-![Page 2](/.jpeg)
+![Page 2](/assets/img/blockbusterformmula.jpeg)
 
 > _Interactive filters and visual storytelling allow users to explore movie success variables easily._
 
