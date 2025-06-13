@@ -14,7 +14,7 @@ I’m naturally curious and love finding patterns in messy data especially when 
 
 In my free time, you’ll likely find me in the kitchen cooking or baking to relax and recharge, lost in a book, or diving into new cultures and topics.
 
-</div>
+
 
 ---
 
