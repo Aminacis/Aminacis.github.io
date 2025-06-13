@@ -7,11 +7,13 @@ title: My Portfolio
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
   <img src="/assets/img/Profile.jpg" alt="Profile picture" width="190"/>
   <div>
-    I'm a resilient and intuitive data analyst based in France, with a strong sense of adaptability and a cross-cultural perspective shaped by my dual background.  
-    I love exploring how data can clarify complex problems and support smarter decision-making. Curious by nature, I enjoy digging beneath the surface and connecting dots others might miss.  
+      
+Hey! I’m a 24-year-old aspiring data analyst, currently finishing my MSc in Data Science & Organizational Behavior. I’m looking for a 6-month final internship starting between July and August 2025, based in France. My dual cultural background has shaped how I see the world and approach my work.
 
-    Outside of work and studies, I’m usually in the kitchen baking something new, deep in a book, or exploring topics around health and behavior.
-  </div>
+I’m naturally curious and love finding patterns in messy data especially when it helps explain human behavior or supports smarter decision-making. I’m particularly drawn to the human side of data: what drives people, how systems interact, and how numbers can tell real stories. Whether I’m prototyping dashboards, running machine learning models, or designing behavioral experiments, I aim to combine analytical rigor with context and empathy.
+
+In my free time, you’ll likely find me in the kitchen cooking or baking to relax and recharge, lost in a book, or diving into new cultures and topics.
+
 </div>
 
 ---
@@ -28,37 +30,49 @@ title: My Portfolio
 
 ## Technical Skills
 
-- Python
-- R (RShiny,ggplot)
+**Programming & Languages**
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- R (RShiny, ggplot2)
 - SQL
-- Tableau
-- Power BI
-- Alteryx
-- Celonis
-- Excel,VBA
-- JASP - Statistical testing (Bayesian, chi-square, etcs)
-- Machine Learning Algorithm
-- Stastical Analysis
-- Otree, Ztree – experiments setup for my thesis and behavioral one
+- VBA
+  
+**Data Analysis & Machine Learning**
+- Supervised Learning (Linear/Logistic Regression, Decision Trees, KNN)
+- Unsupervised Learning (K-Means, PCA)
+- Statistical Analysis (Hypothesis testing, Regression, Correlation)
+
+**Data Visualization**
+- Power BI, Tableau, ggplot2, Matplotlib
+  
+**Data Processing & Automation**
+- Alteryx, Excel (advanced), Celonis
+
+**Experiment Design & Behavioral Research Tools**
+- oTree, z-Tree (economic/behavioral experiments)
+  
+**Environments & Tools**
+- Jupyter Notebook, Google Colab, Visual Studio Code, GitHub
+- JASP, GRETL (Statistical testing)
+- Office Suite (Word, PowerPoint, Outlook)
 
 ---
 
 ## Soft Skills
 
-- Adaptability  
-- Critical Thinking  
-- Time Management  
-- Autonomy  
-- Team Collaboration  
-- Attention to Detail  
+- Adaptability & Autonomy
+- Critical Thinking & Attention to Detail
+- Structured Curiosity
+- Clear Communication
+- Team Collaboration
+- Time Management
 
 ---
 
 ## Languages
 
-- French (Fluent)  
-- Wolof (Fluent)  
-- English (Advanced B2)  
+- French (Native)  
+- English (Advanced B2)
+- Wolof (Native)   
 - German (Beginner A1)
 
 ---
@@ -66,9 +80,8 @@ title: My Portfolio
 ## Education
 
 **Burgundy School of Business – Dijon**  
-*MSc Data Science and Organisational Behaviour* (2021 – 2025)  
-*Master Grande Ecole in Management* (2021 – 2025)  
-Relevant Courses: Finance, Applied Statistics
+*MSc Data Science and Organisational Behaviour* (2024 – 2025)  
+*Master Grande Ecole in Management* (2021 – 2024)  
 
 **Lycée Clément Marot – Cahors**  
 *Preparatory Class ECE (Economic & Commercial,Economic Option)*  
@@ -81,6 +94,7 @@ Relevant Courses: Finance, Applied Statistics
 ---
 
 ## Certifications
+- Microsoft Azure Fundamentals 
 - Alteryx Designer Core 
 - Celonis Foundations & Academic Process Mining Fundamentals
 - Process Mining Audit Professional
