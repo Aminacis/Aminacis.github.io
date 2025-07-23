@@ -8,11 +8,11 @@ title: My Portfolio
   <img src="/assets/img/Profile.jpg" alt="Profile picture" width="190"/>
   <div>
       
-Hello! I’m a 24-year-old aspiring data analyst, currently finishing my MSc in Data Science & Organizational Behavior. I’m looking for a 6-month final internship starting between August and September 2025, based in France. My dual cultural background has shaped how I see the world and approach my work.
+Hello! I’m a 24-year-old aspiring data analyst, currently finishing my MSc in Data Science & Organizational Behavior. I’m looking for a 6-month final internship starting September 2025. My dual cultural background has shaped how I see the world and approach my work.
 
 I’m naturally curious and love finding patterns in messy data especially when it helps explain human behavior or supports smarter decision-making. I’m particularly drawn to the human side of data: what drives people, how systems interact, and how numbers can tell real stories. Whether I’m prototyping dashboards, running machine learning models, or designing behavioral experiments, I aim to combine analytical rigor with context and empathy.
 
-In my free time, you’ll likely find me in the kitchen cooking or baking to relax and recharge, lost in a book, or diving into new cultures and topics.
+In my free time, you’ll likely find me in the kitchen cooking or baking to relax and recharge, lost in a book, watching anime, or diving into new cultures and topics.
   </div>
 </div>
  
